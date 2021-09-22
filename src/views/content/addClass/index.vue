@@ -719,8 +719,10 @@
           index--;
           this.editableTabsValue = index.toString();
         }
+        console.log(this.editableTabs)
 
-         console.log(this.TrainCourseLists)
+
+         // console.log(this.TrainCourseLists)
 
       },
 
