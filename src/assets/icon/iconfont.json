@@ -1,0 +1,23 @@
+{
+  "id": "2730215",
+  "name": "el-self-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-self-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13745143",
+      "name": "Question",
+      "font_class": "Question",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "499186",
+      "name": "filter",
+      "font_class": "filter1",
+      "unicode": "e92c",
+      "unicode_decimal": 59692
+    }
+  ]
+}

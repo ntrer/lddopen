@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2730215 */
+  src: url('iconfont.woff2?t=1628584341724') format('woff2'),
+       url('iconfont.woff?t=1628584341724') format('woff'),
+       url('iconfont.ttf?t=1628584341724') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="el-self-icon"], 
+[class*=" el-self-icon"]/*这里有空格*/
+
+{ font-family: "iconfont" !important;
+
+font-size: 16px;
+
+font-style: normal;
+
+-webkit-font-smoothing: antialiased;
+
+-moz-osx-font-smoothing: grayscale; }
+
+
+.el-self-iconQuestion:before {
+  content: "\e6b5";
+}
+
+.el-self-iconfilter1:before {
+  content: "\e92c";
+}
+
